@@ -1,5 +1,4 @@
 // Author: Chris Turgeon
-// File: hw1.c
 
 #include <stdio.h>
 #include <stdlib.h>
