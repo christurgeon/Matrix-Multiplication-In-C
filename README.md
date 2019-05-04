@@ -6,6 +6,6 @@ This program takes command line arguments declaring the size of the two matrices
 
 ## Dimensions
 * ```M1_NUM_ROWS``` is the first matrix's amount of rows.
-* ```C1_NUM_COLS``` is the first matrix's amount of columns.
+* ```M1_NUM_COLS``` is the first matrix's amount of columns.
 * ```M2_NUM_ROWS``` is the second matrix's amount of rows.
 * ```M2_NUM_COLS``` is the second matrix's amount of columns.
